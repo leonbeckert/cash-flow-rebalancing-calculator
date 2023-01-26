@@ -60,15 +60,15 @@ In the savings phase we are deffering taxation indefinitely in a buy-and-hold st
 
 This cash flow rebalancing calculator offers users the ability to set up their portfolio structure initially within the python executable only returning monthly (or yearly) to calculate their cash flow rebalancing amounts.
 
-[![Cash Flow Rebalancing Calculator Screen Shot 1][product-screenshot-1]]
+<img src="images/screenshot.png" alt="Cash Flow Rebalancing Calculator Screen Shot 1" width="250"/>
 
 Rebalancing fully with an amount that is larger than the necessary rebalancing amount
 
-[![Cash Flow Rebalancing Calculator Screen Shot 2][product-screenshot-2]]
+<img src="images/screenshot2.png" alt="Cash Flow Rebalancing Calculator Screen Shot 2" width="300"/>
 
 Rebalancing fully in detail with the exact amount needed
 
-[![Cash Flow Rebalancing Calculator Screen Shot 3][product-screenshot-3]]
+<img src="images/screenshot3.png" alt="Cash Flow Rebalancing Calculator Screen Shot 3" width="300"/>
 
 Approximating our target distributions with less cash flow
 
