@@ -21,6 +21,8 @@
     by Leon Beckert
     <br />
     <br />
+    <a href="http://tpcg.io/_29Y6G1">Launch Demo</a>
+    ·
     <a href="https://github.com/leonbeckert/cash-flow-rebalancing-calculator/issues">Report Bug</a>
     ·
     <a href="https://github.com/leonbeckert/cash-flow-rebalancing-calculator/issues">Request Feature</a>
@@ -60,18 +62,23 @@ In the savings phase we are deffering taxation indefinitely in a buy-and-hold st
 
 This cash flow rebalancing calculator offers users the ability to set up their portfolio structure initially within the python executable only returning monthly (or yearly) to calculate their cash flow rebalancing amounts.
 
-<img src="images/screenshot.png" alt="Cash Flow Rebalancing Calculator Screen Shot 1" width="250"/>
+<img src="images/screenshot.png" alt="Cash Flow Rebalancing Calculator Screen Shot 1" width="400"/>
 
 Rebalancing fully with an amount that is larger than the necessary rebalancing amount
 
-<img src="images/screenshot2.png" alt="Cash Flow Rebalancing Calculator Screen Shot 2" width="300"/>
+<br/>
+<br/>
+<img src="images/screenshot2.png" alt="Cash Flow Rebalancing Calculator Screen Shot 2" width="400"/>
 
 Rebalancing fully in detail with the exact amount needed
 
-<img src="images/screenshot3.png" alt="Cash Flow Rebalancing Calculator Screen Shot 3" width="300"/>
+<br/>
+<br/>
+<img src="images/screenshot3.png" alt="Cash Flow Rebalancing Calculator Screen Shot 3" width="400"/>
 
 Approximating our target distributions with less cash flow
 
+<br/>
 ### Built With
 
 -   [Python](https://www.python.org)
