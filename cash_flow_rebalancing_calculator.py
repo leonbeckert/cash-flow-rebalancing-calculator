@@ -1,7 +1,16 @@
+#!/usr/bin/env python
 """Cash flow rebalancing app"""
 import numpy as np
 from prettytable import PrettyTable
 
+__author__ = "Leon Beckert"
+__copyright__ = "Copyright 2023, Cash Flow Rebalancing Calculator"
+__credits__ = ["Leon Beckert"]
+__license__ = "CC BY-NC-SA 4.0"
+__version__ = "1.0.1"
+__maintainer__ = "Leon Beckert"
+__email__ = "beckert@leon.fm"
+__status__ = "Production"
 
 def correct_input(investments, distributions):
     """Checks whether the input is formatted correctly"""
